@@ -1,5 +1,5 @@
 # Welcome wierdo
-Modified version of Den_S plugins. This is early beta and is mostly personal. Go away creep
+Modified version of Den_S plugins. Download using the bright green button.
 
 ## Installation: Roblox
 Insert [RbxAnimations.rbxmx](https://github.com/kojocrash/scale-export/blob/master/RbxAnimations.rbxmx "RbxAnimations.rbxmx") into Roblox Studio > Right Click > Save as Local Plugin (Make sure Moon Animator is Installed)
