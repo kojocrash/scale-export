@@ -1,4 +1,4 @@
-# Welcome wierdo
+# Yo
 Modified version of Den_S plugins. Download using the bright green button.
 
 ## Installation: Roblox (Previews Disabled)
